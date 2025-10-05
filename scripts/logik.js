@@ -352,7 +352,7 @@ const itemSelectorImg = [
 
 
                             [
-                            `<img src="./img/Items/lopata.png" alt="card-1" width="160px">`, 
+                            `<img src="./img/Items/Pata.png" alt="card-1" width="160px">`, 
                             `<img src="./img/Items/Funnel.png" alt="card-2" width="160px">`,
                             `<img src="./img/Items/Draw.png" alt="card-3" width="160px">`
                             ],
